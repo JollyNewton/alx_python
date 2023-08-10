@@ -1,4 +1,5 @@
+#!/usr/bin/python3
 i = 0
-while (i <= 99):
-    print (i",")
+while i <= 98:
+    print(i,end=",")
     i = i+1
